@@ -57,9 +57,10 @@ body {
     justify-content: center;
     background-image: url(../media/background.webp);
     background-position: center;
-    background-size: 1000px;
+    background-size: cover;
     width: 100vw;
     background: linear-gradient(rgb(0 0 0/ 20%), rgb(0 0 0/ 20%)), url(../media/5205447.jpg);
+    background-size: cover;
     padding-top: 63px;
     /* padding-bottom: 20px; */
     /* height: 100vh; */
